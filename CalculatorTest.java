@@ -9,6 +9,7 @@ public class CalculatorTest {
         double b;
         int action;
         try {
+            System.oupt.println("Fixed behaviour \n");
             System.out.println("1st number : ");
             a = readClass.readDouble();
             System.out.println("2nd number : ");
